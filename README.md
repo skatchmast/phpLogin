@@ -1,5 +1,5 @@
 
-# self-written  **MVC**  framework
+# self-written  __MVC__  framework
 # init
 
 ```php
