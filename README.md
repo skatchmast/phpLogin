@@ -1,6 +1,6 @@
 
 # self-written  __MVC__  framework
-# init
+## init
 
 ```php
 
